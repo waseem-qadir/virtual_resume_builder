@@ -1,0 +1,50 @@
+.input_pair input{
+    width: 500px;
+    height: 30px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.perso_cont {
+    justify-content: space-between; 
+    margin-top: 20px; 
+}
+
+.input_pair {
+    flex: 0 0 45%; 
+    margin-bottom: 10px; 
+}
+
+label{
+    color:white;
+}
+
+h2{
+    color:white;
+}
+
+textarea{
+    width: 350px;
+    height: 80px;
+}
+
+#objective{
+    width: 500px;
+    height: 80px;
+}
+
+.button{
+    height: 50px;
+    width: 150px;
+    border-radius: 25px;
+    background-color: rgb(125, 7, 125);
+    font-size: 20px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
